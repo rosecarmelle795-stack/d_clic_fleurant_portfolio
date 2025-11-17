@@ -1,0 +1,26 @@
+h5 {
+  color:green;
+  text-align: center;
+  margin-top:50px;
+}
+td {
+  background-color: lightgray;
+  font-size: 10px;
+  text-align: center;
+  margin-block:50px;
+  border-spacing: 50px;
+  width:200px;
+}
+table {
+  border-collapse:separate;
+  border-spacing:20px;
+  border-radius:20px;
+}
+p {
+  text-align: center;
+}
+button {
+  float:center;
+  color:green;
+  font-size: 10px;
+}

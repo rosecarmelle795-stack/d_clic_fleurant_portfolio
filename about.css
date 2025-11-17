@@ -1,0 +1,27 @@
+.Á-propos {
+  background-color:lightgray
+}
+h5 {
+  color:green;
+  text-align: center;
+  margin-top:50px;
+  margin-bottom:50px;
+}
+span {
+  color:green;
+}
+p {
+text-align: left;
+font-size:10px;
+width:50%;
+}
+button {
+  background-color: green;
+  color:white;
+  float: center;
+}
+img {
+  float:right;
+  border:2px solid green;
+  border-radius:50%;
+}

@@ -1,0 +1,20 @@
+body {
+  background:pink;
+}
+h2 {
+  color:purple;
+}
+.highlight {
+color:blue;
+font-weight:bold;
+}
+li {
+  color:black;
+}
+.special {
+  border:2px solide black;
+  background-color:grey;
+}
+#premier {
+  background-color:yellow;
+}

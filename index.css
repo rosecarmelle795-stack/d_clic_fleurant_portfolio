@@ -1,0 +1,22 @@
+h6 {
+  background-color:black;
+  color:white;
+}
+span {
+  color:green;
+}
+button {
+  background-color: green;
+  color:white;
+  float:center;
+}
+img {
+float:right;
+border: 1px solid green;
+}
+h4 {
+width:60% ;
+text-align:center;
+font-weight:normal;
+margin-top:100px;
+}
